@@ -14,10 +14,14 @@ EEG
 
 腦波則是使用樣本熵（SampEn）作為主要分析方法。
 
-助教的分數方法。
-
-<img width="518" alt="image" src="https://github.com/Carly-Yang/Hospital_eeg-ecg/assets/110595051/b5ffa7c7-0a32-4b85-a127-5b8451bf1f6a">
 
 
 EEG與ECG尚未整理完畢。
 Not sorted out yet.
+
+
+助教的分數方法
+
+<img width="518" alt="image" src="https://github.com/Carly-Yang/Hospital_eeg-ecg/assets/110595051/b5ffa7c7-0a32-4b85-a127-5b8451bf1f6a">
+
+
