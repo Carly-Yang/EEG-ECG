@@ -21,6 +21,8 @@ Not sorted out yet.
 
 
 助教的分數方法
+
+
 <img width="362" alt="image" src="https://github.com/Carly-Yang/Hospital-and-TA/assets/110595051/0fd254d1-e996-4627-b260-445dcc4309dc">
 <img width="518" alt="image" src="https://github.com/Carly-Yang/Hospital_eeg-ecg/assets/110595051/b5ffa7c7-0a32-4b85-a127-5b8451bf1f6a">
 <img width="506" alt="image" src="https://github.com/Carly-Yang/Hospital-and-TA/assets/110595051/eba8a358-dacb-4f84-8ecd-3c2cf92b54bd">
