@@ -4,6 +4,7 @@
 ECG
 
 心跳是以R波作為擷取的方法。
+RRI特殊是正常^^。
 
 HRV
 
@@ -13,14 +14,14 @@ Heart rate variability，心率變異分析
 EEG
 
 腦波則是使用樣本熵（SampEn）作為主要分析方法。
-
-
+特別注意雜訊干擾
 
 EEG與ECG尚未整理完畢。
+
 Not sorted out yet.
 
 
-助教的分數方法
+# TA_code
 
 <img width="362" alt="image" src="https://github.com/Carly-Yang/Hospital-and-TA/assets/110595051/0fd254d1-e996-4627-b260-445dcc4309dc">
 
